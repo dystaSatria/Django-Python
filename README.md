@@ -1,6 +1,4 @@
 # Django-Python
-
-<br>
 <br>
 
 ## Starting 
