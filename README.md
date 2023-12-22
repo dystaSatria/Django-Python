@@ -15,3 +15,9 @@ python3 -m pip install --upgrade pip
 ```terminal
 pip install django
 ```
+
+## Install virtualenv
+
+```terminal
+pip install django
+```
