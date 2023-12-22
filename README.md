@@ -19,5 +19,5 @@ pip install django
 ## Install virtualenv
 
 ```terminal
-pip install django
+pip install virtualenv
 ```
