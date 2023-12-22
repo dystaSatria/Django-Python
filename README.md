@@ -27,3 +27,11 @@ pip install virtualenv
 ```terminal
 virtualenv django
 ```
+
+## Activate 
+
+* In Mac
+  
+```terminal
+source django/bin/activate
+```
