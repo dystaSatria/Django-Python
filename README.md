@@ -41,6 +41,11 @@ source django/bin/activate
 ```terminal
 django-admin startproject mysite
 ```
+After that :
+
+```terminal
+cd mysite
+```
 
 ## Open In Own Terminal or Command Prompt
 
