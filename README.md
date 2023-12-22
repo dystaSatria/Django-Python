@@ -35,3 +35,11 @@ virtualenv django
 ```terminal
 source django/bin/activate
 ```
+
+## Make Project
+
+```terminal
+django-admin startproject mysite
+```
+
+
