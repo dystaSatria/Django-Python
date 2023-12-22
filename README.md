@@ -9,3 +9,9 @@ Install python 3.6.8
 ```terminal
 python3 -m pip install --upgrade pip
 ```
+
+## Install Django
+
+```terminal
+pip install django
+```
