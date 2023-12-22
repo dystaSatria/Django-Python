@@ -52,3 +52,9 @@ cd mysite
 ```terminal
 python3 manage.py runserver
 ```
+
+## Start Startapp folder
+
+```terminal
+python3 manage.py startapp blog
+```
