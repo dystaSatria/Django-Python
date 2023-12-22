@@ -42,4 +42,8 @@ source django/bin/activate
 django-admin startproject mysite
 ```
 
+## Open In Own Terminal or Command Prompt
 
+```terminal
+python3 manage.py runserver
+```
