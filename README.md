@@ -21,3 +21,9 @@ pip install django
 ```terminal
 pip install virtualenv
 ```
+
+## Make virtualenv
+
+```terminal
+virtualenv django
+```
