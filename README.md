@@ -2,10 +2,7 @@
 
 <br>
 <br>
-
 ## Starting 
-<br>
-<br>
 
 #### Install Python 
 
